@@ -26,8 +26,10 @@ public class Test9 {
 		result = (input/4*10) + (input%4);
 		
 		System.out.println("Input : "+input);		
-		System.out.println("Output : "+
-		result);
+		System.out.println("Output : "+	result);
+		
+		//Github 사용하기
+		//Code 추가
 		
 		
 	}
